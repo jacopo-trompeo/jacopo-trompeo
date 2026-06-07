@@ -12,11 +12,15 @@ I build a lot of smaller side projects in my private time, but I've decided to e
 
 Currently working on Kanzen. Although still in the early stages, it's an all in one web based dashboard for learning languages (mainly Japanese). Please check it out!
 
+---
+
 ### Tech stack
 
-**Frotnend**: React (NextJS, Tanstack Start), TailwindCSS, Typescript, 
-**Backend/Databases**: NestJS, Express, Hono, Elysia, .NET, PostgreSQL, Redis, SQLite, Prisma, Drizzle, Entity Framework
-**Other tools**: Docker, Linux, Bash scripting, Lua
+- **Frotnend**: React (NextJS, Tanstack Start), TailwindCSS, Typescript, 
+- **Backend/Databases**: NestJS, Express, Hono, Elysia, .NET, PostgreSQL, Redis, SQLite, Prisma, Drizzle, Entity Framework
+- **Other tools**: Docker, Linux, Bash scripting, Lua
+
+---
 
 ### Something about me
 
