@@ -26,7 +26,7 @@ const jacopo = {
 
 - 🧑‍💻 Four years of consulting across frontend and backend. I like code that is
   straightforward to read and has tests you can trust
-- 🐧 Linux evangelist. Started on Arch (btw), then distro hopped for a while. Settled on on Fedora
+- 🐧 Linux evangelist. Started on Arch (btw), then distro hopped for a while. Settled on Fedora
  for the stability
 - 🇯🇵 Studying Japanese. Passed JLPT N3 while working full-time, now working
   toward N2
