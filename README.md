@@ -13,7 +13,7 @@ const jacopo = {
   role: "Fullstack Developer",
   location: "Turin, Italy",
   focus: "web apps",
-  side_quests: ["Japanese (JLPT N2)", "side projects", "golf & bouldering"],
+  side_quests: ["Japanese (JLPT N2)", "side projects", "golf/bouldering/guitar"],
   pets: 2, // cats
   editors: ["Neovim", "Zed"],
   os: "Linux",
