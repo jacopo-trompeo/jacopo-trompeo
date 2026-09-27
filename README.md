@@ -13,7 +13,7 @@ const jacopo = {
   role: "Fullstack Developer",
   location: "Turin, Italy",
   focus: "web apps",
-  side_quests: ["Japanese (JLPT N3 → N2)", "side projects", "golf & bouldering"],
+  side_quests: ["Japanese (JLPT N2)", "side projects", "golf & bouldering"],
   pets: 2, // cats
   editors: ["Neovim", "Zed"],
   os: "Linux",
@@ -26,12 +26,10 @@ const jacopo = {
 
 - 🧑‍💻 Four years of consulting across frontend and backend. I like code that is
   straightforward to read and has tests you can trust
-- 🐧 Linux evangelist. Started on Arch (btw), then distro hopped for a while. Settled on Fedora
- for the stability
-- 🇯🇵 Studying Japanese. Passed JLPT N3 while working full-time, now working
-  toward N2
-- 🏃 I like trying new sports. Currently working on
-  my golf game, before that it was bouldering
+- 🐧 Linux evangelist. Started on Arch (btw), then distro hopped for a while. Initially settled on Fedora for the stability, but couldn't resist the allure of NixOS. My current configuration can be found [here](https://github.com/jacopo-trompeo/nixos) 
+- 🇯🇵 Studying Japanese. Passed JLPT N2 while working full-time, now working
+  toward N1
+- 🏃 I like trying new activities. Currently working on my golf and guitar game, on top of others like bouldering
 - 📚 Avid reader of fantasy and sci-fi books
 - 🐈 Two cats. They contribute nothing to my productivity
 
@@ -41,7 +39,7 @@ const jacopo = {
 
 [![Italian](https://img.shields.io/badge/Italian-native-4CAF50?style=flat)](https://github.com/jacopo-trompeo)
 [![English](https://img.shields.io/badge/English-fluent_(C1_Cambridge)-1E88E5?style=flat)](https://github.com/jacopo-trompeo)
-[![Japanese](https://img.shields.io/badge/Japanese-N3_→_N2-E53935?style=flat)](https://github.com/jacopo-trompeo)
+[![Japanese](https://img.shields.io/badge/Japanese-N2-E53935?style=flat)](https://github.com/jacopo-trompeo)
 
 
 ### Projects
